@@ -1,4 +1,4 @@
-# Leitor QR - Peppe (v3.0)
+# Leitor QR - Peppe (v4.1)
 
 Aplicação web estática em HTML, CSS e JavaScript.
 
